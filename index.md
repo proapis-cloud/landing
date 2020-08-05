@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to ProApis, Inc.
 
 ProAPIs, Inc. offers solutions around the most-demanded API services on the web. Here is the list of our currently active API services.
